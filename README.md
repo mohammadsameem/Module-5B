@@ -168,7 +168,7 @@ print(mer)
 ```
 ## Output
 
-<img width="1193" height="787" alt="image" src="https://github.com/user-attachments/assets/456ac77c-a3bb-4be0-bac4-12885fe538a6" />
+<img width="1037" height="359" alt="image" src="https://github.com/user-attachments/assets/8712a8ca-116c-450a-86b6-ee8cf26cca5c" />
 
 ## Result
 Thus, the program has been executed successfully.
